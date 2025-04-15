@@ -1,3 +1,1 @@
-![Showcase](showcase/preview.png)
-![Showcase](showcase/Hover.png)
-![Showcase](showcase/allButtonVisible.png)
+![SHOWCASE2!](showcase/preview.png)
